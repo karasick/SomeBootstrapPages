@@ -1,0 +1,8 @@
+.card-container {
+    height: 300px;
+    overflow: hidden;
+}
+.card-container .card--image {
+    width: 100%;
+    min-height: 300px;
+}
